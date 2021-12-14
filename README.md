@@ -58,6 +58,6 @@
 ### Stats
 ---
 
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas370&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   ![Statistiques GitHub d'Anurag](https://github-readme-stats.vercel.app/api?username=thomas370&theme=dark&show_icons=true)
 
