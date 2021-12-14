@@ -1,4 +1,4 @@
-## Links
+### Links
 <p align="center">
     <a href="https://www.linkedin.com/in/thomas-bortolato-19134a1a4/">
         <img
