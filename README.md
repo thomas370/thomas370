@@ -52,7 +52,10 @@
     />
 </p>
 
+
 ### Stats
 ---
-    ![Statistiques GitHub d'Anurag](https://github-readme-stats.vercel.app/api?username=thomas370&theme=dark&show_icons=true)
+
+
+  ![Statistiques GitHub d'Anurag](https://github-readme-stats.vercel.app/api?username=thomas370&theme=dark&show_icons=true)
 
