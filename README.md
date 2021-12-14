@@ -49,8 +49,7 @@
         src="https://www.grafics.fr/wp-content/uploads/2015/01/php-copyright-avec-les-annees-01.png"
         width="64" height="64"
         alt="PHP"
-         
-    />
+   />
 </p>
 
 ### Stats
