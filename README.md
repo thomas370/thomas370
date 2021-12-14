@@ -16,5 +16,38 @@
     </a>
 </p>
 
-### Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thomas370&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Languages
+
+<p align="center">
+    <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
+        width="64" height="64"
+        alt="HTML"
+    />
+    <img
+        src="https://cdn.iconscout.com/icon/free/png-256/css3-8-1175200.png"
+        width="64" height="64"
+        alt="CSS"
+    />
+    <img
+        src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"
+        width="64" height="64"
+        alt="Javascript"
+    />
+</p>
+
+<p align="center">
+    <img
+        src="https://files.readme.io/320345b-React_Logo_256x256.png"
+        width="64" height="64"
+        alt="React JS"
+    />
+</p>
+
+<p align="center">
+    <img
+        src="https://www.grafics.fr/wp-content/uploads/2015/01/php-copyright-avec-les-annees-01.png"
+        width="64" height="64"
+        alt="PHP"
+    />
+</p>
