@@ -51,10 +51,9 @@
         width="64" height="64"
         alt="PHP"
    />
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/5e97fd7c4aae01c8db9a18a8f3647daaef3e60f0f7c116e4d845795416f99e38/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d74686f6d6173333730267468656d653d6461726b2673686f775f69636f6e733d74727565" alt="Personal statistics" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thomas370&theme=dark&show_icons=true" style="max-width: 100%;"></a>
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thomas370&theme=dark" style="max-width: 100%;"/>
-</a>
 
 ### Stats
 ---
