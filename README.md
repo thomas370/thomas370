@@ -17,6 +17,7 @@
 </p>
 
 ## Languages
+---
 
 <p align="center">
     <img
@@ -57,6 +58,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img style="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas370&theme=dark" />
 </a>
- 
-  ![Statistiques GitHub d'Anurag](https://github-readme-stats.vercel.app/api?username=thomas370&theme=dark&show_icons=true)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img style="center" src="https://github-readme-stats.vercel.app/api?username=thomas370&theme=dark&show_icons=true" />
+</a>
