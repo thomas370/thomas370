@@ -67,5 +67,5 @@
 </p>
 
 <a href="hhttps://twitter.com/Thomasbortolat3">
-  <img align="right" alt="thomasBortolato | Twitter" width="21px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955031.png" />
+  <img align="right" alt="thomasBortolato | Twitter" width="21px" src="https://cdn.discordapp.com/attachments/900396449852973106/920330948028022844/5a3a185132ceb1.89894673151375675320812609.png" />
 </a>
