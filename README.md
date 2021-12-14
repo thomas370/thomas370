@@ -52,6 +52,9 @@
         alt="PHP"
    />
 </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img style="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thomas370&theme=dark" />
+</a>
 
 ### Stats
 ---
