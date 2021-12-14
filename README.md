@@ -54,6 +54,5 @@
 
 ### Stats
 ---
-<p align="center">
     ![Statistiques GitHub d'Anurag](https://github-readme-stats.vercel.app/api?username=thomas370&theme=dark&show_icons=true)
-</p>
+
