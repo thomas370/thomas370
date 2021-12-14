@@ -53,7 +53,7 @@
    />
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thomas370&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thomas370&theme=dark" style="max-width: 100%;"/>
 </a>
 
 ### Stats
