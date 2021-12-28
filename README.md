@@ -31,10 +31,6 @@
         width="64" height="64"
         alt="PHP"
    />
-<p align="center">
-
-</p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas370&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats GuitHub
 ---
