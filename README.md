@@ -32,8 +32,9 @@
         alt="PHP"
    />
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/45c6e1b432f316d9a2ba57811087af5961791889bf830c7b04d9410b9c6594da/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d74686f6d6173333730267468656d653d6461726b" alt="Personal statistics" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thomas370&theme=dark&show_icons=true" style="max-width: 100%;"></a>
+
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas370&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats GuitHub
 ---
