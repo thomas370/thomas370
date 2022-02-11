@@ -44,3 +44,5 @@
 </p>
 
 <a href="https://wakatime.com/badge/github/thomas370/site-web-formation-udemy"><img src="https://wakatime.com/badge/github/thomas370/site-web-formation-udemy.svg" alt="wakatime"></a>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Thomas370)](https://github.com/anuraghazra/github-readme-stats)
