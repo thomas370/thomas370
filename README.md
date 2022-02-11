@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **web site for me discord**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **thomasbortolato5@gmail.com**
 
