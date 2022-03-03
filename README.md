@@ -33,6 +33,7 @@
 </p>
 <p align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fa76474faf7dc4a8ddde64a9076d66ada700dae55f7cb4ef45650fc98b0bea42/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d6761657667267468656d653d7265616374">
-        <img src="https://camo.githubusercontent.com/fa76474faf7dc4a8ddde64a9076d66ada700dae55f7cb4ef45650fc98b0bea42/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d6761657667267468656d653d7265616374" alt="thomas370's wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=thomas370g&amp;theme=dark" style="max-width: 100%;">
+        <img src="https://camo.githubusercontent.com/5e97fd7c4aae01c8db9a18a8f3647daaef3e60f0f7c116e4d845795416f99e38/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d74686f6d6173333730267468656d653d6461726b2673686f775f69636f6e733d74727565" alt="thomas370's wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=thomas370g&amp;theme=dark" style="max-width: 100%;">
     </a>
 </p>
+[![wakatime](https://wakatime.com/badge/user/b1c7d523-d82f-4c8b-b5bd-fcb4727ea04a.svg)](https://wakatime.com/@b1c7d523-d82f-4c8b-b5bd-fcb4727ea04a)
