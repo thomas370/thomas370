@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas Bortolato</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" src="https://cdn.discordapp.com/attachments/762002899643138059/948998903255150672/mcefeeline.png"
+
 - 🔭 I’m currently working on [web site for me discord](https://lecoindesdev.fr/)
 
 - 🌱 I’m currently learning **vue.js**
@@ -35,3 +35,4 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thomas370&amp;theme=react" alt="thomas's wakatime stats">
 </p>
 <a href="https://wakatime.com/@b1c7d523-d82f-4c8b-b5bd-fcb4727ea04a"><img src="https://wakatime.com/badge/user/b1c7d523-d82f-4c8b-b5bd-fcb4727ea04a.svg" alt="Total time coded since Dec 14 2021" /></a>
+<img src="https://badges.pufler.dev/visits/thomas370/thomas370"
