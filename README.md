@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas Bortolato</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
+<img align="right" src="https://cdn.discordapp.com/attachments/762002899643138059/948998903255150672/mcefeeline.png"
 - 🔭 I’m currently working on [web site for me discord](https://lecoindesdev.fr/)
 
 - 🌱 I’m currently learning **vue.js**
