@@ -7,6 +7,8 @@ A passionate frontend developer
 *   ✉️  You can contact me at [thomasbortolato5@gmail.com](mailto:thomasbortolato5@gmail.com)
 *   🚀  I'm currently working on [Site for a discord server of a developer community](http://github.com/Lecoindesdev)
 *   🧠  I'm learning vue.js
+<p><img src="https://komarev.com/ghpvc/?username=thomas370" alt=""></p>
+
 
 
 <h3 align="left">Connect with me:</h3>
