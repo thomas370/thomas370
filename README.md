@@ -36,3 +36,4 @@
 </p>
 <a href="https://wakatime.com/@b1c7d523-d82f-4c8b-b5bd-fcb4727ea04a"><img src="https://wakatime.com/badge/user/b1c7d523-d82f-4c8b-b5bd-fcb4727ea04a.svg" alt="Total time coded since Dec 14 2021" /></a>
 <img src="https://badges.pufler.dev/visits/thomas370"
+<a href="https://www.buymeacoffee.com/thomasbort"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
