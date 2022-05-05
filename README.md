@@ -7,7 +7,8 @@ A passionate frontend developer
 *   ✉️  You can contact me at [thomasbortolato5@gmail.com](mailto:thomasbortolato5@gmail.com)
 *   🚀  I'm currently working on [Site for a discord server of a developer community](http://github.com/Lecoindesdev)
 *   🧠  I'm learning vue.js
-*   
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@toto-borto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@toto-borto" height="50" width="60" /></a>
