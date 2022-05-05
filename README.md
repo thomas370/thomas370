@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thomas Bortolato</h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=thomas370" alt=""></p><h1 align="center">Hi 👋, I'm Thomas Bortolato</h1>
 
 A passionate frontend developer
 -------------------------------
@@ -7,7 +7,6 @@ A passionate frontend developer
 *   ✉️  You can contact me at [thomasbortolato5@gmail.com](mailto:thomasbortolato5@gmail.com)
 *   🚀  I'm currently working on [Site for a discord server of a developer community](http://github.com/Lecoindesdev)
 *   🧠  I'm learning vue.js
-<p><img src="https://komarev.com/ghpvc/?username=thomas370" alt=""></p>
 
 
 
