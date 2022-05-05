@@ -7,9 +7,7 @@ A passionate frontend developer
 *   ✉️  You can contact me at [thomasbortolato5@gmail.com](mailto:thomasbortolato5@gmail.com)
 *   🚀  I'm currently working on [Site for a discord server of a developer community](http://github.com/Lecoindesdev)
 *   🧠  I'm learning vue.js
-<a href="https://www.github.com/thomas370" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/thomas370?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+*   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@toto-borto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@toto-borto" height="50" width="60" /></a>
@@ -39,4 +37,6 @@ A passionate frontend developer
 </p>
 <a href="https://wakatime.com/@b1c7d523-d82f-4c8b-b5bd-fcb4727ea04a"><img src="https://wakatime.com/badge/user/b1c7d523-d82f-4c8b-b5bd-fcb4727ea04a.svg" alt="Total time coded since Dec 14 2021" /></a>
 <img src="https://badges.pufler.dev/visits/thomas370">
+<a href="https://www.github.com/thomas370" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/thomas370?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.buymeacoffee.com/thomasbort"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
