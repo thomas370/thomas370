@@ -1,6 +1,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thomas370" alt=""></p><h1 align="center">Hi 👋, I'm Thomas Bortolato</h1>
 
 <p align="center">A passionate frontend developer</p>
+<img src="https://cdn.discordapp.com/attachments/900396449852973106/972050962569101352/header_1.png" alt="Personal statistics" style="max-width: 100%;">
 
 
 *   🌍  I'm based in France, Grenoble
