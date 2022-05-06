@@ -1,7 +1,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thomas370" alt=""></p><h1 align="center">Hi 👋, I'm Thomas Bortolato</h1>
 
-A passionate frontend developer
--------------------------------
+<p align="center">A passionate frontend developer</p>
+
 
 *   🌍  I'm based in France, Grenoble
 *   ✉️  You can contact me at [thomasbortolato5@gmail.com](mailto:thomasbortolato5@gmail.com)
