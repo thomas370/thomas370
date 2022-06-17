@@ -6,7 +6,7 @@
 
 *   🌍  I'm based in France, Grenoble
 *   ✉️  You can contact me at [thomasbortolato5@gmail.com](mailto:thomasbortolato5@gmail.com)
-*   🚀  I'm currently working on [Site for a discord server of a developer community](http://github.com/Lecoindesdev)
+*   🚀  I'm currently working on MODEL MVC
 *   🧠  I'm learning vue.js
 
 
