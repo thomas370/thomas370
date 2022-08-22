@@ -38,8 +38,10 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thomas370&amp;theme=react" alt="thomas's wakatime stats">
 </p>
+### card daily.dev
+---
 <div align="center">
- <a href="https://app.daily.dev/toollkyll"><img src="https://api.daily.dev/devcards/6ac6c416b2fd41ac8d7ec5b2b53f778f.png?r=e0p" width="400" alt="Thomas Bortolato's Dev Card"/></a>
+ <a href="https://app.daily.dev/toollkyll"><img src="https://api.daily.dev/devcards/6ac6c416b2fd41ac8d7ec5b2b53f778f.png?r=e0p" width="300" alt="Thomas Bortolato's Dev Card"/></a>
  <div align="center">
 <a href="https://www.buymeacoffee.com/thomasbort"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
  </div>
