@@ -41,6 +41,9 @@
  <div align="center">
 <a href="https://www.buymeacoffee.com/thomasbort"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
  </div>
+ <div align="center">
+ <a href="https://app.daily.dev/toollkyll"><img src="https://api.daily.dev/devcards/6ac6c416b2fd41ac8d7ec5b2b53f778f.png?r=e0p" width="400" alt="Thomas Bortolato's Dev Card"/></a>
+ </div>
 <div align="right">
 <a href="https://wakatime.com/@b1c7d523-d82f-4c8b-b5bd-fcb4727ea04a"><img src="https://wakatime.com/badge/user/b1c7d523-d82f-4c8b-b5bd-fcb4727ea04a.svg" alt="Total time coded since Dec 14 2021" /></a>
  </div>
