@@ -4,7 +4,7 @@
 *   🌍  I'm based in France, Grenoble
 *   ✉️  You can contact me at [thomasbortolato5@gmail.com](mailto:thomasbortolato5@gmail.com)
 *   🚀  I'm currently working on Framework react and combo react symfony /react express
-*   🧠  I'm learning vue.js
+*   🧠  I'm learning mongoDB
 
 
 
