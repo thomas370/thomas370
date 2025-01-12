@@ -31,12 +31,6 @@ When I'm not coding, you can find me:
 💼 LinkedIn: [Thomas Bortolato](https://www.linkedin.com/in/thomas-bortolato/)  
 🐙 GitHub: You're already here!  
 
----
-
-"Talk is cheap. Show me the code." - [Linus Torvalds](https://github.com/torvalds)
-
----
-
 ### Stats GuitHub
 ---
 <p align="center">
