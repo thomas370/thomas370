@@ -22,7 +22,7 @@ When I'm not coding, you can find me:
 
 ## Fun Facts  
 - I once spent 3 hours debugging, only to realize I forgot a semicolon.  
-- My favorite Pokémon is [insert your favorite Pokémon]!  
+- My favorite Pokémon is PIKA !  
 - I'm on a mission to collect all the **Crown Zenith Pokémon cards**.  
 
 ## Let's Connect  
