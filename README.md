@@ -18,7 +18,6 @@ When I'm not coding, you can find me:
 
 ## My Projects  
 - 🚀 [Arborescence Python](https://github.com/thomas370/Arborecense_python): A tool to bootstrap Python project folders (work in progress).  
-- 🎲 [Challenge-Gaming](https://github.com/...): A platform to track gaming challenges across various games (coming soon!).  
 
 ## Fun Facts  
 - I once spent 3 hours debugging, only to realize I forgot a semicolon.  
