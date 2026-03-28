@@ -1,10 +1,6 @@
 # 👋 Hi there! I'm Thomas Bortolato  
 
-> _"Code, sleep, repeat. Unless there's coffee, then just code."_ ☕
-
-## About Me  
-I'm a **Junior Web Developer** passionate about learning, building, and breaking (then fixing) things.  
-🔧 My favorite tools include **React**, **Symfony**, and **SQL**, but I also love experimenting with Python and creating fun projects like my [Arborescence Python](https://github.com/thomas370/Arborecense_python).  
+> _"Code, sleep, repeat. Unless there's coffee, then just code."_  
 
 When I'm not coding, you can find me:  
 - 🚵‍♂️ Riding my mountain bike on rocky trails (trying not to crash).  
