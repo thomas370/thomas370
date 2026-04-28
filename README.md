@@ -10,9 +10,7 @@
 
 ## 🧑‍💻 À propos de moi
 
-Étudiant en alternance, passionné par l'**informatique** et les **systèmes d'information**.
-J'aime construire des outils qui simplifient la vie.
-
+Étudiant en alternance, passionné par l'**informatique** 
 <p>
   <img src="https://img.shields.io/badge/🎓_CESI_Maylan-GMSI-005BAC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💼_Bièvre_Est-Alternant_Tech._Support-2E7D32?style=for-the-badge" />
@@ -20,7 +18,7 @@ J'aime construire des outils qui simplifient la vie.
 </p>
 
 - 🌱 J'apprends chaque jour de nouvelles choses sur l'**admin sys**, le **support** et le **dev**
-- 💬 Demande-moi sur **Python**, le **support IT** ou… mon dernier crash en VTT
+
 
 ## 🎯 Quand je ne code pas
 
