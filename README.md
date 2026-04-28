@@ -17,9 +17,6 @@
   <img src="https://img.shields.io/badge/📅_Alternance-2025_→_2027-FF6B35?style=for-the-badge" />
 </p>
 
-- 🌱 J'apprends chaque jour de nouvelles choses sur l'**admin sys**, le **support** et le **dev**
-
-
 ## 🎯 Quand je ne code pas
 
 - 🚵‍♂️ Soit je fais du **trail**, soit du **VTT** (en essayant de pas finir au sol)
